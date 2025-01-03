@@ -116,12 +116,6 @@ End Sub
 - Efficient VBA coding patterns
 - Memory management techniques
 
-
-### Future Proposed UI
-![Possible Implementation](financial-dashboard.tsx)
-
-
-
 ## 🤝 Contributing
 Contributions are welcome!
 
