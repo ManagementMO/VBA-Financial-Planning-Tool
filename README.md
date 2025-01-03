@@ -36,32 +36,29 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 ## 📝 Usage Guide
 
 ### Initial Setup
-```vba
-' Initialize the financial planning workbook
-Sub InitializeWorkbook()
-    ' Setup necessary worksheets
-    Call CreateRequiredSheets
-    ' Initialize default categories
-    Call SetupDefaultCategories
-    ' Create dashboard
-    Call CreateDashboard
-End Sub
-```
+## Installation
 
-### Adding New Transactions
-```vba
-' Add new financial transaction
-Sub AddTransaction()
-    ' Transaction entry form
-    With UserForm1
-        .Show
-        If Not .Cancelled Then
-            ' Process transaction
-            ProcessNewEntry .Amount, .Category, .Date, .Description
-        End If
-    End With
-End Sub
-```
+1. **Download the Excel File:** Click the "Code" button and then "Download ZIP".
+2. **Extract the Files:** Unzip the downloaded file to your desired location.
+3. **Open the Excel File:** Open the `FinancialPlanner.xlsm` file (the `.xlsm` extension indicates it contains macros).
+4. **Enable Macros:** **Crucially, you need to enable macros for the planner to function.** You'll likely see a security warning bar at the top. Click "Enable Content" or follow these steps:
+   * Go to "File" > "Options".
+   * Click "Trust Center" and then "Trust Center Settings...".
+   * Click "Macro Settings".
+   * Select "Enable all macros (not recommended; potentially dangerous code can run)". **Alternatively, for better security, choose "Disable all macros with notification" and then enable macros specifically for this file when prompted.**
+   * Click "OK" on both windows.
+5. **Start Planning:** The financial planner is now ready to use! Refer to the "Usage" section below for instructions.
+
+## Usage
+
+Here's a quick guide on how to use the Financial Planner:
+
+1. **Navigate the Sheets:** Use the tabs at the bottom of the Excel window to access different sections (e.g., "Budget," "Forecast," "Goals").
+2. **Enter Your Data:**  Fill in the required information in the designated cells. Tooltips and clear labels are provided to guide you.
+3. **Explore the Visualizations:** Charts and graphs automatically update to provide insights into your finances.
+4. **Customize Settings:**  Adjust categories and settings to personalize the planner to your needs.
+
+**(Optional: You can provide screenshots of specific sheets with annotations here to guide the user further)**
 
 ## 🛠️ Technical Details
 
