@@ -1,4 +1,4 @@
-# VBA Financial Planning Tool
+# MO-Planner A Comprehensive Financial Planning Tool
 
 ![MO-Planner](repo-banner.svg)
 
