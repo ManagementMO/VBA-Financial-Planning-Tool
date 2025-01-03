@@ -6,12 +6,12 @@
 A comprehensive Excel-based financial planning tool powered by VBA that helps users manage their personal finances, create budgets, track investments, and plan for retirement.
 
 ### Key Features
-- 💰 Budget tracking and expense categorization
-- 📈 Investment portfolio management
-- 🎯 Retirement planning calculator
-- 📅 Bill payment scheduler
-- 📊 Dynamic financial dashboards
-- 📝 Custom reporting system
+* 💰**Budgeting Made Easy:** Track income and expenses across various categories with a simple and intuitive interface.
+* 📈 **Smart Forecasting:** Project your financial future with customizable scenarios and visualize potential outcomes.
+* 🎯**Goal Tracking:** Set financial goals (e.g., saving for a down payment, retirement) and monitor your progress.
+* 📅**Insightful Reporting:** Generate reports on your spending habits, net worth, and progress towards goals.
+* 📊**User-Friendly Design:**  No prior VBA knowledge required!  Designed for ease of use for everyone.
+* 📝**Customizable Categories:** Adapt the planner to your specific income and expense categories.
 
 # 🖥️ Demo
 ![Demo GIF](demo-placeholder.gif)
