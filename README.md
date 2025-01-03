@@ -13,7 +13,7 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 - 📊 Dynamic financial dashboards
 - 📝 Custom reporting system
 
-### 🖥️ Demo
+# 🖥️ Demo
 ![Demo GIF](demo-placeholder.gif)
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard-preview.png)
