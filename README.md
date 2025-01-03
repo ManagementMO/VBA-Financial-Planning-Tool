@@ -14,7 +14,6 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 * 📝**Customizable Categories:** Adapt the planner to your specific income and expense categories.
 
 # 🖥️ Demo
-![Demo GIF](demo-placeholder.gif)
 ## Dashboard Preview
 ![Dashboard Screenshot](dashboard-preview.png)
 
