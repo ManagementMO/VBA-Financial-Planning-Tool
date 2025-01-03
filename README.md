@@ -33,8 +33,6 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 5. Follow the initialization wizard
 
 ## 📝 Usage Guide
-
-### Initial Setup
 ## Installation
 
 1. **Download the Excel File:** Click the "Code" button and then "Download ZIP".
