@@ -14,11 +14,9 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 - 📝 Custom reporting system
 
 ## 🖥️ Demo
-
 ![Demo GIF](demo-placeholder.gif)
-
 ### Dashboard Preview
-![Dashboard Screenshot](dashboard-placeholder.png)
+![Dashboard Screenshot](dashboard-preview.png)
 
 
 ## 🚀 Getting Started
@@ -120,7 +118,7 @@ End Sub
 
 
 ### Future Proposed UI
-![Possible Implementation](dashboard-placeholder.png)
+![Possible Implementation](financial-dashboard.tsx)
 
 
 
