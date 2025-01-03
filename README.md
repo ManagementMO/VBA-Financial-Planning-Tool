@@ -1,6 +1,6 @@
 # VBA Financial Planning Tool
 
-![Financial Planning Banner](banner-placeholder.png)
+![MO-Planner](repo-banner.svg)
 
 ## 📊 Overview
 A comprehensive Excel-based financial planning tool powered by VBA that helps users manage their personal finances, create budgets, track investments, and plan for retirement.
