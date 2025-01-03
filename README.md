@@ -1,4 +1,4 @@
-# MO-Planner A Comprehensive Financial Planning Tool
+# MO's Comprehensive Financial Planning Tool
 
 ![MO-Planner](premium-banner.svg)
 
