@@ -1,6 +1,6 @@
 # MO-Planner A Comprehensive Financial Planning Tool
 
-![MO-Planner](repo-banner.svg)
+![MO-Planner](premium-banner.svg)
 
 ## 📊 Overview
 A comprehensive Excel-based financial planning tool powered by VBA that helps users manage their personal finances, create budgets, track investments, and plan for retirement.
