@@ -20,6 +20,7 @@ A comprehensive Excel-based financial planning tool powered by VBA that helps us
 ### Dashboard Preview
 ![Dashboard Screenshot](dashboard-placeholder.png)
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -116,6 +117,12 @@ End Sub
 - Optimized worksheet formulas
 - Efficient VBA coding patterns
 - Memory management techniques
+
+
+### Future Proposed UI
+![Possible Implementation](dashboard-placeholder.png)
+
+
 
 ## 🤝 Contributing
 Contributions are welcome!
